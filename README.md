@@ -18,9 +18,7 @@ The goal of this project is to extract basic sales information from a SQLite dat
   - `price` — Price of the product
   - `order_date` — Date of the order
 
-## Steps to Run
-**Deliverables**
-
+## Deliverables
 `sales_data_7.csv` — Dataset with 100 sales records
 `sales_data_7.db` — SQLite database (generated from CSV)
 `sales_summary_using_SQLite.ipynb` — Python script
